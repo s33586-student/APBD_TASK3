@@ -1,0 +1,15 @@
+c:\Users\Tima\Desktop\Work\APBD_TASK3\bin\Debug\net9.0\APBD_TASK3.exe
+C:\Users\Tima\Desktop\Work\APBD_TASK3\bin\Debug\net9.0\APBD_TASK3.deps.json
+C:\Users\Tima\Desktop\Work\APBD_TASK3\bin\Debug\net9.0\APBD_TASK3.runtimeconfig.json
+c:\Users\Tima\Desktop\Work\APBD_TASK3\bin\Debug\net9.0\APBD_TASK3.dll
+c:\Users\Tima\Desktop\Work\APBD_TASK3\bin\Debug\net9.0\APBD_TASK3.pdb
+c:\Users\Tima\Desktop\Work\APBD_TASK3\obj\Debug\net9.0\APBD_TASK3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Tima\Desktop\Work\APBD_TASK3\obj\Debug\net9.0\APBD_TASK3.AssemblyInfoInputs.cache
+c:\Users\Tima\Desktop\Work\APBD_TASK3\obj\Debug\net9.0\APBD_TASK3.AssemblyInfo.cs
+c:\Users\Tima\Desktop\Work\APBD_TASK3\obj\Debug\net9.0\APBD_TASK3.csproj.CoreCompileInputs.cache
+c:\Users\Tima\Desktop\Work\APBD_TASK3\obj\Debug\net9.0\APBD_TASK3.sourcelink.json
+c:\Users\Tima\Desktop\Work\APBD_TASK3\obj\Debug\net9.0\APBD_TASK3.dll
+c:\Users\Tima\Desktop\Work\APBD_TASK3\obj\Debug\net9.0\refint\APBD_TASK3.dll
+c:\Users\Tima\Desktop\Work\APBD_TASK3\obj\Debug\net9.0\APBD_TASK3.pdb
+C:\Users\Tima\Desktop\Work\APBD_TASK3\obj\Debug\net9.0\APBD_TASK3.genruntimeconfig.cache
+C:\Users\Tima\Desktop\Work\APBD_TASK3\obj\Debug\net9.0\ref\APBD_TASK3.dll
